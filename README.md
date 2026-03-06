@@ -9,6 +9,16 @@ Analysis of UTME (strict CBT exam) & POST‑UTME (remote exam).
 435 Computer Science applicants analyzed.
 Goal: Evaluate reliability, fairness, and influence of both exams.
 <img width="7455" height="672" alt="image" src="https://github.com/user-attachments/assets/3605bdca-00ea-465c-a135-79ff014a849d" />
+# THE GOAL
+Measure Average on which Exam after Score.
+Determine influence on admission scoring
+Test relationship between UTME & POST‑UTME.
+Which Exam is Suitable for basis of university admission.
+What is the relationship between the same person taking UTME and PUTME, and does this make PUTME a good test of knowledge
+<img width="4623" height="675" alt="image" src="https://github.com/user-attachments/assets/99406f15-ce3d-41d4-aa09-27a24ba167ee" />
+
+
+
 
 ## Methods & Metrics
 1) Descriptive statistics (averages).Pie  Chart
