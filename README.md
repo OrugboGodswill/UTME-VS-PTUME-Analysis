@@ -16,3 +16,8 @@ Goal: Evaluate reliability, fairness, and influence of both exams.
 1) Descriptive statistics (averages).Pie  Chart
 2) Logistic regression (influence) Bar Chat
 3) Pearson & Spearman correlation ( Scatter Plot , Tread Line )
+
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/feb5d61e-cc7a-48cd-99c5-7479b01a4eb0" />
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/4ed05666-56ef-41a0-a084-e53594881db8" />
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/222dcb25-310b-4d06-bdd9-86db595f58b5" />
+
